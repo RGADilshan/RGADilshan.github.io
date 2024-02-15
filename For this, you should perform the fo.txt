@@ -1,0 +1,12 @@
+For this, you should perform the following actions:
+
+1) Go to your "Domain List" and click "Manage" next to the domain name;
+2) Select the "Advanced DNS" tab;
+3) Find the "Host Records" section and click on the "Add New Record" button;
+4) Next, you can choose the way by which the subdomain name will be created:
+
+- pointing to an IP address: https://www.namecheap.com/support/knowledgebase/article.aspx/10336/2254/video-how-to-create-subdomain-for-my-domain-via-namecheap-account/
+- pointing to a nameserver: https://www.namecheap.com/support/knowledgebase/article.aspx/9776/2237/how-to-create-a-subdomain-for-my-domain/#ns
+- subdomain name that forwards to a link/ URL: https://www.namecheap.com/support/knowledgebase/article.aspx/9776/2237/how-do-i-create-a-subdomain-for-my-domain#url
+
+5) Click the "Save All Changes" button once done.
